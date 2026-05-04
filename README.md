@@ -5,7 +5,7 @@ Moim głównym obszarem działań jest **zaawansowana analityka danych przestrze
 
 Łączę 7-letnie doświadczenie z systemami sprzętowymi DJI z analityką programistyczną. Samodzielne loty fotogrametryczne traktuję jako solidny fundament badawczy, który pozwala mi w pełni zrozumieć specyfikę i jakość danych wejściowych. Moim głównym celem i pasją zawodową jest jednak praca stricte z danymi – przekształcanie surowych modeli (DSM/DTM) i chmur punktów w zautomatyzowane, inżynieryjne raporty dla branży OZE, budownictwa i geodezji.
 
- **[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)]((https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf))** 
+ **[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)](https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf)** 
 
 ###  Moje wybrane projekty analityczne:
 * **[Automatyzacja Analizy Potencjału Solarnego (Python/Rasterio)](link-do-repo-1)** - Ekstrakcja statystyk nachylenia i azymutu z modeli powierzchniowych.
