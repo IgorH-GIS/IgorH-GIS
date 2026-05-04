@@ -16,3 +16,24 @@ Moim głównym obszarem działań jest **zaawansowana analityka danych przestrze
 * **Programowanie:** Python (Rasterio, NumPy, Pandas, Pillow)
 * **GIS:** QGIS, PyQGIS
 * **Fotogrametria:** WebODM
+
+---
+
+# Hi, I'm Igor 👋
+**Geospatial Data Analyst | Python & GIS Specialist | UAV Tech Expert | DroneCube Analytics**
+
+My main focus is **advanced spatial data analytics** and automating GIS processes using Python (Rasterio, NumPy).
+
+I combine 7 years of experience in DJI hardware systems with programming analytics. I treat independent photogrammetric flights as a solid research foundation, allowing me to fully understand the specifics and quality of input data. However, my primary goal and professional passion is working strictly with data – transforming raw models (DSM/DTM) and point clouds into automated, engineering-grade reports for the renewable energy, construction, and surveying sectors.
+
+📂 **[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf)**
+
+### 🚀 Selected Analytical Projects:
+* **[Automated Solar Potential Analysis (Python/Rasterio)](https://github.com/IgorH-GIS/drone-solar-analytics)** - Extraction of slope and aspect statistics from surface models.
+* **[Precise Vector Extraction for Progress Tracking (QGIS)](https://github.com/IgorH-GIS/Construction_Draw_Report)** - Digitization and area ($m^2$) verification for construction reports.
+* **[Zonal Statistics & Hydrological Analysis (PyQGIS)](https://github.com/IgorH-GIS/Stormwater_Drainage_Analysis)** - Raster processing to eliminate manual errors in sanitary engineering.
+
+### 🛠️ Tech Stack & Tools:
+* **Programming:** Python (Rasterio, NumPy, Pandas, Pillow)
+* **GIS:** QGIS, PyQGIS
+* **Photogrammetry:** WebODM
