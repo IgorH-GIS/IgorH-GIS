@@ -26,7 +26,7 @@ My main focus is **advanced spatial data analytics** and automating GIS processe
 
 I combine 7 years of experience in DJI hardware systems with programming analytics. I treat independent photogrammetric flights as a solid research foundation, allowing me to fully understand the specifics and quality of input data. However, my primary goal and professional passion is working strictly with data – transforming raw models (DSM/DTM) and point clouds into automated, engineering-grade reports for the renewable energy, construction, and surveying sectors.
 
-📂 **[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf)**
+📂 **[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf.pdf)**
 
 ### 🚀 Selected Analytical Projects:
 * **[Automated Solar Potential Analysis (Python/Rasterio)](https://github.com/IgorH-GIS/drone-solar-analytics)** - Extraction of slope and aspect statistics from surface models.
