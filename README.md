@@ -8,9 +8,9 @@ Moim głównym obszarem działań jest **zaawansowana analityka danych przestrze
  **[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)](https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf)** 
 
 ###  Moje wybrane projekty analityczne:
-* **[Automatyzacja Analizy Potencjału Solarnego (Python/Rasterio)](link-do-repo-1)** - Ekstrakcja statystyk nachylenia i azymutu z modeli powierzchniowych.
-* **[Ekstrakcja Wektorowa i Postępy Budowy (QGIS)](link-do-repo-2)** - Digitalizacja i weryfikacja powierzchni $m^2$ w procesach budowlanych.
-* **[Zonal Statistics i Analiza Hydrologiczna (PyQGIS)](link-do-repo-3)** - Przetwarzanie rastrów w celu eliminacji błędów manualnych w inżynierii sanitarnej.
+* **[Automatyzacja Analizy Potencjału Solarnego (Python/Rasterio)](https://github.com/IgorH-GIS/drone-solar-analytics)** - Ekstrakcja statystyk nachylenia i azymutu z modeli powierzchniowych.
+* **[Ekstrakcja Wektorowa i Postępy Budowy (QGIS)](https://github.com/IgorH-GIS/Construction_Draw_Report)** - Digitalizacja i weryfikacja powierzchni $m^2$ w procesach budowlanych.
+* **[Zonal Statistics i Analiza Hydrologiczna ([PyQGIS)](https://github.com/IgorH-GIS/Stormwater_Drainage_Analysis)** - Przetwarzanie rastrów w celu eliminacji błędów manualnych w inżynierii sanitarnej.
 
 ###  Technologie i Narzędzia:
 * **Programowanie:** Python (Rasterio, NumPy, Pandas, Pillow)
