@@ -13,7 +13,7 @@ Moim głównym obszarem działań jest **zaawansowana analityka danych przestrze
 * **[Zonal Statistics i Analiza Hydrologiczna (PyQGIS)](https://github.com/IgorH-GIS/Stormwater_Drainage_Analysis)** - Przetwarzanie rastrów w celu eliminacji błędów manualnych w inżynierii sanitarnej.
 
 ###  Technologie i Narzędzia:
-* **Programowanie:** Python (Rasterio, NumPy, Pandas, Pillow)
+* **Programowanie:** Python 
 * **GIS:** QGIS, PyQGIS
 * **Fotogrametria:** WebODM
 
@@ -34,6 +34,6 @@ I combine 7 years of experience in DJI hardware systems with programming analyti
 * **[Zonal Statistics & Hydrological Analysis (PyQGIS)](https://github.com/IgorH-GIS/Stormwater_Drainage_Analysis)** - Raster processing to eliminate manual errors in sanitary engineering.
 
 ###  Tech Stack & Tools:
-* **Programming:** Python (Rasterio, NumPy, Pandas, Pillow)
+* **Programming:** Python 
 * **GIS:** QGIS, PyQGIS
 * **Photogrammetry:** WebODM
