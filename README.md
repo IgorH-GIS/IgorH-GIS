@@ -4,7 +4,7 @@
 
 Moim głównym obszarem działań jest analityka danych przestrzennych (QGIS) oraz automatyzacja procesów GIS za pomocą Pythona (PyQGIS, Rasterio). Wieloletnie doświadczenie w diagnostyce sprzętowej systemów UAV DJI dało mi dogłębne zrozumienie fizyki sensorów (IMU, RTK) oraz natury błędów w surowych danych pomiarowych. Mój główny cel zawodowy to praca stricte z danymi przestrzennymi – naprawa topologii, czyszczenie wektorów oraz przekształcanie modeli (DSM/DTM) i chmur punktów w zautomatyzowane raporty inżynieryjne.
 
-[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)](#) *(https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf)*
+[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)](#) **(https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf)**
 
 ### Moje wybrane projekty analityczne:
 
