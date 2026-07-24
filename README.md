@@ -1,3 +1,28 @@
+# Hi, I'm Igor
+
+** GIS Analyst | Python & PyQGIS Automation | Spatial Data Processing **
+
+My main focus is spatial data analytics (QGIS) and automating GIS processes using Python (PyQGIS, Rasterio). Years of experience in diagnostic testing of DJI UAV systems provided me with a deep understanding of sensor physics (IMU, RTK) and the exact nature of errors in raw measurement data. My professional goal is working strictly with spatial data – fixing topology, cleaning vectors, and transforming models (DSM/DTM) and point clouds into automated engineering reports.
+
+[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf)
+
+### Selected Analytical Projects:
+
+*   **[Automated LoD1 Generation (QGIS/PyQGIS)](#)** - Automated script extracting Z-coordinates from DTM/DSM models into building polygons. Designed for acoustic simulations (e.g., CadnaA), featuring defensive data cleaning of NULL values (SQL `coalesce`).
+*   **[Cemetery Spatial Restructuring (QGIS/PostGIS)](#)** - Transforming raw, inconsistent vector data into a clean, topologically correct GeoPackage database ready for PostGIS implementation.
+*   **[LiDAR DTM Extraction (CloudCompare/PDAL)](#)** - Processing raw point clouds (.laz) using the CSF algorithm for bare-earth classification and generating Digital Terrain Models.
+
+### Tech Stack & Tools:
+
+*   **GIS & Databases:** QGIS, PyQGIS, PostGIS, GeoPackage
+*   **3D / LiDAR Processing:** CloudCompare, PDAL
+*   **Programming:** Python (Rasterio, NumPy, Pandas)
+*   **Photogrammetry:** WebODM
+
+Open for full-time roles, B2B partnerships, and freelance data processing. Equipped with a high-performance workstation ensuring fast turnaround times for heavy spatial projects. Let's connect!
+
+---
+
 # Cześć, jestem Igor
 
 ** GIS Analyst | Python & PyQGIS Automation | Spatial Data Processing **
@@ -19,25 +44,8 @@ Moim głównym obszarem działań jest analityka danych przestrzennych (QGIS) or
 *   **Programowanie:** Python (Rasterio, NumPy, Pandas)
 *   **Fotogrametria:** WebODM
 
----
+Otwarty na oferty pracy (etat), współpracę B2B oraz niezależne zlecenia przetwarzania danych. Dysponuję własną stacją roboczą o wysokiej mocy obliczeniowej, gwarantującą szybki czas realizacji ciężkich projektów przestrzennych. Zapraszam do kontaktu!
 
-# Hi, I'm Igor
 
-** GIS Analyst | Python & PyQGIS Automation | Spatial Data Processing **
 
-My main focus is spatial data analytics (QGIS) and automating GIS processes using Python (PyQGIS, Rasterio). Years of experience in diagnostic testing of DJI UAV systems provided me with a deep understanding of sensor physics (IMU, RTK) and the exact nature of errors in raw measurement data. My professional goal is working strictly with spatial data – fixing topology, cleaning vectors, and transforming models (DSM/DTM) and point clouds into automated engineering reports.
 
-[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](https://github.com/IgorH-GIS/IgorH-GIS/blob/main/Portfolio_Igor_Hajducki.pdf.pdf)
-
-### Selected Analytical Projects:
-
-*   **[Automated LoD1 Generation (QGIS/PyQGIS)](#)** - Automated script extracting Z-coordinates from DTM/DSM models into building polygons. Designed for acoustic simulations (e.g., CadnaA), featuring defensive data cleaning of NULL values (SQL `coalesce`).
-*   **[Cemetery Spatial Restructuring (QGIS/PostGIS)](#)** - Transforming raw, inconsistent vector data into a clean, topologically correct GeoPackage database ready for PostGIS implementation.
-*   **[LiDAR DTM Extraction (CloudCompare/PDAL)](#)** - Processing raw point clouds (.laz) using the CSF algorithm for bare-earth classification and generating Digital Terrain Models.
-
-### Tech Stack & Tools:
-
-*   **GIS & Databases:** QGIS, PyQGIS, PostGIS, GeoPackage
-*   **3D / LiDAR Processing:** CloudCompare, PDAL
-*   **Programming:** Python (Rasterio, NumPy, Pandas)
-*   **Photogrammetry:** WebODM
