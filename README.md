@@ -46,6 +46,52 @@ Moim głównym obszarem działań jest analityka danych przestrzennych (QGIS) or
 
 Otwarty na oferty pracy (etat), współpracę B2B oraz niezależne zlecenia przetwarzania danych. Dysponuję własną stacją roboczą o wysokiej mocy obliczeniowej, gwarantującą szybki czas realizacji ciężkich projektów przestrzennych. Zapraszam do kontaktu!
 
+# Hi, I'm Igor
 
+**GIS/Photogrammetry Specialist | PyQGIS & UAV/LiDAR Automation**
+
+My main focus is spatial data analytics (QGIS) and automating GIS processes using Python (PyQGIS, Rasterio, PDAL). Years of experience in diagnostic testing of DJI UAV systems provided me with a deep understanding of sensor physics (IMU, RTK) and the exact nature of errors in raw measurement data. My professional goal is working strictly with spatial data – fixing topology, cleaning vectors, and transforming models (DSM/DTM) and point clouds into automated engineering reports.
+
+[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf)
+
+### Selected Analytical Projects:
+
+*   **[Automated LoD1 Generation (QGIS/PyQGIS)](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)** - Automated script extracting Z-coordinates from DTM/DSM models into building polygons. Designed for acoustic simulations (e.g., CadnaA), featuring defensive data cleaning of NULL values (SQL `coalesce`).
+*   **[Cemetery Spatial Restructuring (QGIS/PostGIS)](https://github.com/IgorH-GIS/cemetery-spatial-restructuring)** - Transforming raw, inconsistent vector data into a clean, topologically correct GeoPackage database ready for PostGIS implementation.
+*   **[LiDAR DTM Extraction (CloudCompare/PDAL)](https://github.com/IgorH-GIS/LiDAR-DTM-Automation)** - Processing raw point clouds (.laz) using the CSF algorithm for bare-earth classification and generating Digital Terrain Models.
+
+### Tech Stack & Tools:
+
+*   **GIS & Databases:** QGIS, PyQGIS, PostGIS, GeoPackage
+*   **3D / LiDAR Processing:** CloudCompare, PDAL
+*   **Programming:** Python (Rasterio, NumPy, Pandas)
+*   **Photogrammetry:** WebODM
+
+Open for full-time roles, B2B partnerships, and freelance data processing. Equipped with a high-performance workstation ensuring fast turnaround times for heavy spatial projects. Let's connect!
+
+---
+
+# Cześć, jestem Igor
+
+**GIS/Photogrammetry Specialist | PyQGIS & UAV/LiDAR Automation**
+
+Moim głównym obszarem działań jest analityka danych przestrzennych (QGIS) oraz automatyzacja procesów GIS za pomocą Pythona (PyQGIS, Rasterio, PDAL). Wieloletnie doświadczenie w diagnostyce sprzętowej systemów UAV DJI dało mi dogłębne zrozumienie fizyki sensorów (IMU, RTK) oraz natury błędów w surowych danych pomiarowych. Mój główny cel zawodowy to praca stricte z danymi przestrzennymi – naprawa topologii, czyszczenie wektorów oraz przekształcanie modeli (DSM/DTM) i chmur punktów w zautomatyzowane raporty inżynieryjne.
+
+[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf)
+
+### Moje wybrane projekty analityczne:
+
+*   **[Automated LoD1 Generation (QGIS/PyQGIS)](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)** - Zautomatyzowany skrypt ekstrahujący rzędne Z z modeli DTM/DSM do poligonów budynków. Projekt przygotowany pod symulacje akustyczne (np. CadnaA), wykorzystujący defensywne czyszczenie braków w danych (SQL `coalesce`).
+*   **[Cemetery Spatial Restructuring (QGIS/PostGIS)](https://github.com/IgorH-GIS/cemetery-spatial-restructuring)** - Przekształcenie surowych, niespójnych wektorów w czystą, topologicznie poprawną bazę GeoPackage, przygotowaną do wdrożenia w systemach bazodanowych.
+*   **[LiDAR DTM Extraction (CloudCompare/PDAL)](https://github.com/IgorH-GIS/LiDAR-DTM-Automation)** - Przetwarzanie surowych chmur punktów (.laz) z wykorzystaniem algorytmu CSF do klasyfikacji bare-earth i generowania Numerycznego Modelu Terenu.
+
+### Technologie i Narzędzia:
+
+*   **GIS & Bazy Danych:** QGIS, PyQGIS, PostGIS, GeoPackage
+*   **Przetwarzanie 3D / LiDAR:** CloudCompare, PDAL
+*   **Programowanie:** Python (Rasterio, NumPy, Pandas)
+*   **Fotogrametria:** WebODM
+
+Otwarty na oferty pracy (etat), współpracę B2B oraz niezależne zlecenia przetwarzania danych. Dysponuję własną stacją roboczą o wysokiej mocy obliczeniowej, gwarantującą szybki czas realizacji ciężkich projektów przestrzennych. Zapraszam do kontaktu!
 
 
