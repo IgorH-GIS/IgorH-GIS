@@ -6,7 +6,7 @@ I work with **spatial data, UAV datasets and GIS automation**, combining practic
 
 My main focus is transforming raw spatial data — orthophotos, point clouds, DSM/DTM models and vector datasets — into clean, structured and reproducible engineering outputs.
 
-I also develop my **Software QA skills** by testing my own GIS applications as real software products: analysing requirements, designing test cases, reporting defects, validating databases with SQL and performing regression/retesting.
+I also develop my **Software QA skills** by applying structured software testing practices to my own GIS applications: analysing requirements, designing test cases, reporting defects, validating databases with SQL and performing regression/retesting.
 
 I have **7 years of professional experience in DJI UAV diagnostics**, where I worked with technical troubleshooting, hardware diagnostics, warranty assessment and systematic identification of faults.
 
