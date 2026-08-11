@@ -1,49 +1,164 @@
-# Hi, I'm Igor
+# Hi, I'm Igor 👋
 
-**GIS/Photogrammetry Specialist | PyQGIS & UAV/LiDAR Automation**
+### GIS / UAV Data Analyst | Python & PyQGIS Automation | Software QA Portfolio
 
-My main focus is spatial data analytics (QGIS) and automating GIS processes using Python (PyQGIS, Rasterio, PDAL). Years of experience in diagnostic testing of DJI UAV systems provided me with a deep understanding of sensor physics (IMU, RTK) and the exact nature of errors in raw measurement data. My professional goal is working strictly with spatial data – fixing topology, cleaning vectors, and transforming models (DSM/DTM) and point clouds into automated engineering reports.
+I work with **spatial data, UAV datasets and GIS automation**, combining practical drone-industry experience with Python-based geospatial workflows.
 
-[CLICK HERE TO DOWNLOAD MY FULL PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf)
+My main focus is transforming raw spatial data — orthophotos, point clouds, DSM/DTM models and vector datasets — into clean, structured and reproducible engineering outputs.
 
-### Selected Analytical Projects:
+I also develop my **Software QA skills** by testing my own GIS applications as real software products: analysing requirements, designing test cases, reporting defects, validating databases with SQL and performing regression/retesting.
 
-*   **[Automated LoD1 Generation (QGIS/PyQGIS)](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)** - Automated script extracting Z-coordinates from DTM/DSM models into building polygons. Designed for acoustic simulations (e.g., CadnaA), featuring defensive data cleaning of NULL values (SQL `coalesce`).
-*   **[Cemetery Spatial Restructuring (QGIS/PostGIS)](https://github.com/IgorH-GIS/cemetery-spatial-restructuring)** - Transforming raw, inconsistent vector data into a clean, topologically correct GeoPackage database ready for PostGIS implementation.
-*   **[LiDAR DTM Extraction (CloudCompare/PDAL)](https://github.com/IgorH-GIS/LiDAR-DTM-Automation)** - Processing raw point clouds (.laz) using the CSF algorithm for bare-earth classification and generating Digital Terrain Models.
-
-### Tech Stack & Tools:
-
-*   **GIS & Databases:** QGIS, PyQGIS, PostGIS, GeoPackage
-*   **3D / LiDAR Processing:** CloudCompare, PDAL
-*   **Programming:** Python (Rasterio, NumPy, Pandas)
-*   **Photogrammetry:** WebODM
-
-Open for full-time roles, B2B partnerships, and freelance data processing. Equipped with a high-performance workstation ensuring fast turnaround times for heavy spatial projects. Let's connect!
+I have **7 years of professional experience in DJI UAV diagnostics**, where I worked with technical troubleshooting, hardware diagnostics, warranty assessment and systematic identification of faults.
 
 ---
 
-# Cześć, jestem Igor
+## 🔎 Current Focus
 
-**GIS/Photogrammetry Specialist | PyQGIS & UAV/LiDAR Automation**
+- GIS and spatial data analysis
+- UAV / drone data processing
+- Python and PyQGIS automation
+- LiDAR / point-cloud processing
+- DSM / DTM analysis
+- GeoPackage / spatial databases
+- Software QA and manual testing
+- SQL validation
+- Building practical workflows that connect GIS, automation and quality assurance
 
-Moim głównym obszarem działań jest analityka danych przestrzennych (QGIS) oraz automatyzacja procesów GIS za pomocą Pythona (PyQGIS, Rasterio, PDAL). Wieloletnie doświadczenie w diagnostyce sprzętowej systemów UAV DJI dało mi dogłębne zrozumienie fizyki sensorów (IMU, RTK) oraz natury błędów w surowych danych pomiarowych. Mój główny cel zawodowy to praca stricte z danymi przestrzennymi – naprawa topologii, czyszczenie wektorów oraz przekształcanie modeli (DSM/DTM) i chmur punktów w zautomatyzowane raporty inżynieryjne.
+---
 
-[KLIKNIJ TUTAJ, ABY POBRAĆ MOJE PEŁNE PORTFOLIO (PDF)](Portfolio_Igor_Hajducki.pdf)
+## 🧪 Featured Project — GIS Automation + Software QA
 
-### Moje wybrane projekty analityczne:
+### [Automated LoD1 Generation – QGIS / PyQGIS](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
 
-*   **[Automated LoD1 Generation (QGIS/PyQGIS)](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)** - Zautomatyzowany skrypt ekstrahujący rzędne Z z modeli DTM/DSM do poligonów budynków. Projekt przygotowany pod symulacje akustyczne (np. CadnaA), wykorzystujący defensywne czyszczenie braków w danych (SQL `coalesce`).
-*   **[Cemetery Spatial Restructuring (QGIS/PostGIS)](https://github.com/IgorH-GIS/cemetery-spatial-restructuring)** - Przekształcenie surowych, niespójnych wektorów w czystą, topologicznie poprawną bazę GeoPackage, przygotowaną do wdrożenia w systemach bazodanowych.
-*   **[LiDAR DTM Extraction (CloudCompare/PDAL)](https://github.com/IgorH-GIS/LiDAR-DTM-Automation)** - Przetwarzanie surowych chmur punktów (.laz) z wykorzystaniem algorytmu CSF do klasyfikacji bare-earth i generowania Numerycznego Modelu Terenu.
+A PyQGIS workflow that extracts roof and ground elevations from UAV-derived **DSM / DTM models** and generates structured building data for acoustic analysis.
 
-### Technologie i Narzędzia:
+The original GIS Proof of Concept was subsequently used as a real software test object.
 
-*   **GIS & Bazy Danych:** QGIS, PyQGIS, PostGIS, GeoPackage
-*   **Przetwarzanie 3D / LiDAR:** CloudCompare, PDAL
-*   **Programowanie:** Python (Rasterio, NumPy, Pandas)
-*   **Fotogrametria:** WebODM
+The QA case study includes:
 
-Otwarty na oferty pracy (etat), współpracę B2B oraz niezależne zlecenia przetwarzania danych. Dysponuję własną stacją roboczą o wysokiej mocy obliczeniowej, gwarantującą szybki czas realizacji ciężkich projektów przestrzennych. Zapraszam do kontaktu!
+- Software Requirements Specification (SRS)
+- functional and non-functional requirements
+- Test Plan
+- **21 designed test cases**
+- positive and negative testing
+- controlled test data preparation
+- defect reporting in Jira
+- defect lifecycle and retesting
+- SQL / SQLite / GeoPackage validation in DBeaver
+- independent spatial calculation verification in QGIS
+- Git / GitHub version control
 
+### Current QA milestone
+
+| Metric | Result |
+|---|---:|
+| Designed test cases | 21 |
+| Formally executed | 5 |
+| Confirmed defects | 3 |
+| Fixed and successfully retested | 3 |
+| Current corrective build | v1.2 |
+
+The repository represents an **Application-ready QA Portfolio milestone** rather than a completed test campaign.
+
+---
+
+## 🗺️ Selected GIS / UAV Projects
+
+### [Automated LoD1 Generation](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
+PyQGIS automation for extracting building elevation information from DSM/DTM data, combined with a structured software QA case study.
+
+### Cemetery Spatial Restructuring
+QGIS / GeoPackage / PostGIS workflow for transforming inconsistent spatial records into a clean and structured geospatial database.
+
+### LiDAR DTM Extraction
+Point-cloud processing using **CloudCompare, CSF and PDAL** to classify ground points and generate Digital Terrain Models.
+
+### Drone Solar Analytics
+Automated extraction of rooftop **slope and aspect** statistics from UAV-derived surface models for solar-energy analysis.
+
+### QGIS Automated Slope Analysis
+PyQGIS workflow for automated terrain slope calculations from elevation datasets.
+
+---
+
+## 🛠️ Tech Stack
+
+### GIS & Spatial Data
+- QGIS
+- PyQGIS
+- GeoPackage
+- PostGIS
+- Rasterio
+- GDAL
+
+### UAV / Photogrammetry / LiDAR
+- WebODM
+- CloudCompare
+- PDAL
+- DSM / DTM / nDSM
+- point-cloud processing
+- orthomosaic workflows
+
+### Programming & Data
+- Python
+- NumPy
+- Pandas
+- SQL
+- SQLite
+
+### Software QA
+- Manual testing
+- Test case design
+- Requirements analysis
+- Functional testing
+- Negative testing
+- Regression / retesting
+- Jira
+- DBeaver
+- SQL validation
+- Postman — fundamentals
+- DevTools — fundamentals
+- Git / GitHub
+
+---
+
+## 💼 Professional Background
+
+Before focusing on GIS and software development, I spent approximately **7 years working with DJI UAV systems**.
+
+My responsibilities developed from repair work into technical diagnostics and warranty-related assessment. This experience built strong habits around:
+
+- systematic troubleshooting,
+- fault isolation,
+- technical documentation,
+- analysing unexpected system behaviour,
+- attention to detail,
+- working with complex hardware/software systems.
+
+I now apply the same diagnostic mindset to spatial-data workflows and software QA.
+
+---
+
+## 🎯 Current Goals
+
+I am currently open to opportunities in:
+
+- GIS / Geospatial Analysis
+- UAV / Drone Data Processing
+- GIS Automation
+- Junior Software QA / Manual Testing
+- GIS + QA hybrid roles
+- remote data-processing projects
+
+I am particularly interested in roles where **GIS, Python, spatial databases and software quality** overlap.
+
+---
+
+## 📫 Contact
+
+**Location:** Wrocław, Poland  
+**LinkedIn:** [linkedin.com/in/igor-hajducki](https://www.linkedin.com/in/igor-hajducki/)  
+**GitHub:** [github.com/IgorH-GIS](https://github.com/IgorH-GIS)
+
+Open to full-time employment, B2B cooperation and selected freelance GIS / UAV data-processing projects.
 
