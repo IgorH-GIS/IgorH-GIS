@@ -30,6 +30,10 @@ I am currently looking for opportunities in **GIS, UAV data processing and Softw
 
 ## 🧪 Featured Project — GIS Automation + Software QA
 
+## 🚁 Featured Project — UAV Photogrammetry & GIS
+
+### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
+
 ### [Automated LoD1 Generation – QGIS / PyQGIS](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
 
 A PyQGIS workflow that extracts roof and ground elevations from UAV-derived **DSM / DTM models** and generates structured building data for acoustic analysis.
