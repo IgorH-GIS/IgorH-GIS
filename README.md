@@ -143,16 +143,17 @@ I now apply the same diagnostic mindset to spatial-data workflows and software Q
 
 ## 🎯 Current Goals
 
-I am currently open to opportunities in:
+I am currently open to full-time opportunities in:
 
 - GIS / Geospatial Analysis
 - UAV / Drone Data Processing
 - GIS Automation
 - Junior Software QA / Manual Testing
 - GIS + QA hybrid roles
-- remote data-processing projects
 
-I am particularly interested in roles where **GIS, Python, spatial databases and software quality** overlap.
+I am particularly interested in **Wrocław-based opportunities and remote positions** where GIS, Python, spatial data, UAV processing or software quality overlap.
+
+Alongside my job search, I continue developing practical UAV/GIS processing workflows and a longer-term application concept for automating drone-data processing and delivery.
 
 ---
 
