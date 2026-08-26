@@ -2,13 +2,15 @@
 
 ### GIS / UAV Data Analyst | Python & PyQGIS Automation | Software QA Portfolio
 
-I work with **spatial data, UAV datasets and GIS automation**, combining practical drone-industry experience with Python-based geospatial workflows.
+I work with **GIS, UAV data processing, photogrammetry and spatial-data automation**, building practical workflows that transform raw geospatial data into structured analytical products and technical deliverables.
 
-My main focus is transforming raw spatial data — orthophotos, point clouds, DSM/DTM models and vector datasets — into clean, structured and reproducible engineering outputs.
+My current work includes **orthophoto generation, DSM/DTM/nDSM processing, point-cloud analysis, 3D reconstruction, spatial QA and PyQGIS automation** using QGIS, WebODM, CloudCompare, PDAL and Python.
 
-I also develop my **Software QA skills** by applying structured software testing practices to my own GIS applications: analysing requirements, designing test cases, reporting defects, validating databases with SQL and performing regression/retesting.
+In parallel, I develop my **Software QA skills** through practical testing projects involving requirements analysis, test-case design, defect reporting, regression/retesting, SQL validation, API testing fundamentals and Git/GitHub workflows.
 
-I have **7 years of professional experience in DJI UAV diagnostics**, where I worked with technical troubleshooting, hardware diagnostics, warranty assessment and systematic identification of faults.
+I have **7 years of professional experience in DJI UAV diagnostics**, including technical troubleshooting, hardware diagnostics, warranty assessment and systematic fault identification.
+
+I am currently looking for opportunities in **GIS, UAV data processing and Software QA**, including roles in Wrocław and remote positions.
 
 ---
 
