@@ -1,6 +1,6 @@
 # Hi, I'm Igor 👋
 
-### GIS / UAV Data Analyst | Python & PyQGIS Automation | Software QA Portfolio
+### GIS / UAV Data Analyst | Python & PyQGIS Automation | Software QA
 
 I work with **GIS, UAV data processing, photogrammetry and spatial-data automation**, building practical workflows that transform raw geospatial data into structured analytical products and technical deliverables.
 
@@ -28,11 +28,34 @@ I am currently looking for opportunities in **GIS, UAV data processing and Softw
 
 ---
 
-## 🧪 Featured Project — GIS Automation + Software QA
-
 ## 🚁 Featured Project — UAV Photogrammetry & GIS
 
 ### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
+
+An end-to-end UAV photogrammetry and GIS case study based on imagery captured with a DJI Mini 4K.
+
+The project covers the complete workflow from source imagery to validated analytical and 3D outputs:
+
+- 51 UAV images: 31 nadir + 20 oblique;
+- automated and manual image QA;
+- WebODM photogrammetric processing;
+- orthophoto generation;
+- DSM / DTM validation and terrain-model refinement;
+- 0.25 m nDSM generation and relative-height analysis;
+- dense point-cloud inspection in CloudCompare;
+- comparison of nadir-only vs nadir + oblique 3D reconstruction;
+- final QGIS cartographic products;
+- **37-page technical report**.
+
+### Key result
+
+The addition of oblique imagery substantially improved façade reconstruction and overall 3D model completeness compared with the nadir-only dataset.
+
+[View the full Sunderland project →](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
+
+---
+
+## 🧪 Featured Project — GIS Automation + Software QA
 
 ### [Automated LoD1 Generation – QGIS / PyQGIS](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
 
@@ -64,11 +87,14 @@ The QA case study includes:
 | Fixed and successfully retested | 3 |
 | Current corrective build | v1.2 |
 
-The repository represents an **Application-ready QA Portfolio milestone** rather than a completed test campaign.
+The repository represents an **application-ready QA portfolio milestone** rather than a completed test campaign.
 
 ---
 
 ## 🗺️ Selected GIS / UAV Projects
+
+### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
+End-to-end UAV photogrammetry workflow covering image QA, WebODM processing, orthophoto generation, terrain-model refinement, nDSM analysis, point-cloud QA and 3D reconstruction.
 
 ### [Automated LoD1 Generation](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
 PyQGIS automation for extracting building elevation information from DSM/DTM data, combined with a structured software QA case study.
