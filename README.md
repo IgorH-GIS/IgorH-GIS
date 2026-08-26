@@ -16,15 +16,15 @@ I am currently looking for opportunities in **GIS, UAV data processing and Softw
 
 ## 🔎 Current Focus
 
-- GIS and spatial data analysis
-- UAV / drone data processing
+- GIS and spatial-data analysis
+- UAV / drone data processing and photogrammetry
 - Python and PyQGIS automation
 - LiDAR / point-cloud processing
-- DSM / DTM analysis
-- GeoPackage / spatial databases
+- DSM / DTM / nDSM analysis
+- Spatial databases and SQL
 - Software QA and manual testing
-- SQL validation
-- Building practical workflows that connect GIS, automation and quality assurance
+- API testing fundamentals
+- Building practical GIS/UAV processing applications and automation workflows
 
 ---
 
