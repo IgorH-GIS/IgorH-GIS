@@ -1,55 +1,79 @@
 # Hi, I'm Igor 👋
 
-### GIS / UAV Data Analyst | Python & PyQGIS Automation | Software QA
+### GIS / UAV Data Processing | Photogrammetry & 3D Reconstruction | Python / PyQGIS | Software QA
 
-I work with **GIS, UAV data processing, photogrammetry and spatial-data automation**, building practical workflows that transform raw geospatial data into structured analytical products and technical deliverables.
+I work with **GIS, UAV data processing, photogrammetry, point clouds and spatial-data workflows**, turning raw geospatial data into structured analytical and 3D outputs.
 
-My current work includes **orthophoto generation, DSM/DTM/nDSM processing, point-cloud analysis, 3D reconstruction, spatial QA and PyQGIS automation** using QGIS, WebODM, CloudCompare, PDAL and Python.
+My current work focuses on:
 
-In parallel, I develop my **Software QA skills** through practical testing projects involving requirements analysis, test-case design, defect reporting, regression/retesting, SQL validation, API testing fundamentals and Git/GitHub workflows.
+- UAV image QA and dataset preparation
+- photogrammetric processing with WebODM
+- 3D reconstruction and point-cloud analysis
+- DSM / DTM / nDSM workflows
+- QGIS and PyQGIS automation
+- spatial-data validation and databases
+- practical Software QA and manual testing
 
-I have **7 years of professional experience in DJI UAV diagnostics**, including technical troubleshooting, hardware diagnostics, warranty assessment and systematic fault identification.
+I have **7 years of professional experience with DJI UAV systems**, mainly in technical diagnostics, troubleshooting and warranty assessment.
 
-I am currently looking for opportunities in **GIS, UAV data processing and Software QA**, including roles in Wrocław and remote positions.
-
----
-
-## 🔎 Current Focus
-
-- GIS and spatial-data analysis
-- UAV / drone data processing and photogrammetry
-- Python and PyQGIS automation
-- LiDAR / point-cloud processing
-- DSM / DTM / nDSM analysis
-- Spatial databases and SQL
-- Software QA and manual testing
-- API testing fundamentals
-- Building practical GIS/UAV processing applications and automation workflows
+I am currently open to **full-time GIS / UAV data-processing / QA roles**, as well as selected **B2B and freelance geospatial data-processing projects**.
 
 ---
 
-## 🚁 Featured Project — UAV Photogrammetry & GIS
+## 🚀 Featured Project — UAV Photogrammetry & 3D Reconstruction
 
-### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
+### [Grodków Water Tower — UAV Photogrammetry & 3D Reconstruction](https://github.com/IgorH-GIS/grodkow-water-tower-photogrammetry)
 
-An end-to-end UAV photogrammetry and GIS case study based on imagery captured with a DJI Mini 4K.
+A 3D-first photogrammetry case study focused on **image QA, capture geometry, reconstruction quality, model comparison and final presentation**.
 
-The project covers the complete workflow from source imagery to validated analytical and 3D outputs:
+The project compares three reconstruction strategies:
 
-- 51 UAV images: 31 nadir + 20 oblique;
-- automated and manual image QA;
-- WebODM photogrammetric processing;
-- orthophoto generation;
-- DSM / DTM validation and terrain-model refinement;
-- 0.25 m nDSM generation and relative-height analysis;
-- dense point-cloud inspection in CloudCompare;
-- comparison of nadir-only vs nadir + oblique 3D reconstruction;
-- final QGIS cartographic products;
-- **37-page technical report**.
+- **Model A — Sunny:** 442 QA-approved images
+- **Model B — Overcast:** 283 QA-approved images
+- **Model C — Combined Curated:** 403 selected images
+
+The workflow included:
+
+- EXIF and image QA
+- manual KEEP / REJECT review
+- capture-geometry analysis
+- WebODM 3D reconstruction
+- point-cloud inspection in CloudCompare
+- ICP registration and Cloud-to-Cloud comparison
+- texture and completeness assessment
+- Blender cleanup and presentation
+- final 3D animations
 
 ### Key result
 
-The addition of oblique imagery substantially improved façade reconstruction and overall 3D model completeness compared with the nadir-only dataset.
+The **Overcast dataset** provided the best overall balance of reconstruction completeness, texture consistency and processing efficiency.
+
+The combined Model C produced the densest point cloud, but the additional images significantly increased processing cost without delivering a decisive final-quality improvement.
+
+[View the full Grodków project →](https://github.com/IgorH-GIS/grodkow-water-tower-photogrammetry)
+
+---
+
+## 🛰️ Featured Project — UAV Photogrammetry & GIS
+
+### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
+
+An end-to-end UAV photogrammetry and GIS workflow covering:
+
+- automated and manual image QA
+- WebODM processing
+- orthophoto generation
+- DSM / DTM validation and refinement
+- 0.25 m nDSM generation
+- relative-height analysis
+- dense point-cloud QA in CloudCompare
+- nadir vs nadir + oblique 3D comparison
+- final QGIS cartographic outputs
+- technical reporting
+
+### Key result
+
+Adding oblique imagery improved façade reconstruction and overall 3D model completeness compared with the nadir-only dataset.
 
 [View the full Sunderland project →](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
 
@@ -57,27 +81,23 @@ The addition of oblique imagery substantially improved façade reconstruction an
 
 ## 🧪 Featured Project — GIS Automation + Software QA
 
-### [Automated LoD1 Generation – QGIS / PyQGIS](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
+### [Automated LoD1 Generation — QGIS / PyQGIS](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
 
-A PyQGIS workflow that extracts roof and ground elevations from UAV-derived **DSM / DTM models** and generates structured building data for acoustic analysis.
+A PyQGIS workflow that extracts building roof and ground elevations from DSM / DTM data and generates structured LoD1 building information.
 
-The original GIS Proof of Concept was subsequently used as a real software test object.
+The same project was later used as a practical Software QA case study involving:
 
-The QA case study includes:
-
-- Software Requirements Specification (SRS)
-- functional and non-functional requirements
-- Test Plan
-- **21 designed test cases**
+- requirements analysis
+- test planning
 - positive and negative testing
-- controlled test data preparation
-- defect reporting in Jira
-- defect lifecycle and retesting
-- SQL / SQLite / GeoPackage validation in DBeaver
-- independent spatial calculation verification in QGIS
-- Git / GitHub version control
+- controlled test data
+- defect reporting
+- Jira bug lifecycle
+- regression and retesting
+- SQL / SQLite / GeoPackage validation
+- independent spatial verification in QGIS
 
-### Current QA milestone
+### QA milestone
 
 | Metric | Result |
 |---|---:|
@@ -87,29 +107,29 @@ The QA case study includes:
 | Fixed and successfully retested | 3 |
 | Current corrective build | v1.2 |
 
-The repository represents an **application-ready QA portfolio milestone** rather than a completed test campaign.
+[View the LoD1 / QA project →](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
 
 ---
 
 ## 🗺️ Selected GIS / UAV Projects
 
-### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
-End-to-end UAV photogrammetry workflow covering image QA, WebODM processing, orthophoto generation, terrain-model refinement, nDSM analysis, point-cloud QA and 3D reconstruction.
+### [LiDAR DTM Automation](https://github.com/IgorH-GIS/LiDAR-DTM-Automation)
+Point-cloud processing using **PDAL, CloudCompare and PyQGIS** to classify ground points and generate Digital Terrain Models.
 
-### [Automated LoD1 Generation](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
-PyQGIS automation for extracting building elevation information from DSM/DTM data, combined with a structured software QA case study.
-
-### Cemetery Spatial Restructuring
+### [Cemetery Spatial Restructuring](https://github.com/IgorH-GIS/cemetery-spatial-restructuring)
 QGIS / GeoPackage / PostGIS workflow for transforming inconsistent spatial records into a clean and structured geospatial database.
 
-### LiDAR DTM Extraction
-Point-cloud processing using **CloudCompare, CSF and PDAL** to classify ground points and generate Digital Terrain Models.
+### [Drone Solar Analytics](https://github.com/IgorH-GIS/drone-solar-analytics)
+Automated extraction of rooftop **slope and aspect statistics** from UAV-derived surface models.
 
-### Drone Solar Analytics
-Automated extraction of rooftop **slope and aspect** statistics from UAV-derived surface models for solar-energy analysis.
+### [QGIS Automated Slope Analysis](https://github.com/IgorH-GIS/QGIS-Automated-Slope-Analysis)
+PyQGIS workflow for automated terrain-slope calculations from elevation datasets.
 
-### QGIS Automated Slope Analysis
-PyQGIS workflow for automated terrain slope calculations from elevation datasets.
+### [Construction Draw Report](https://github.com/IgorH-GIS/Construction_Draw_Report)
+PyQGIS workflow for extracting polygon areas and generating structured CSV construction reports.
+
+### [Manual Web & API Testing Mini Case](https://github.com/IgorH-GIS/manual-web-api-testing-mini-case)
+Junior QA portfolio project covering manual web testing, Chrome DevTools, responsive testing and REST API validation with Postman.
 
 ---
 
@@ -120,30 +140,33 @@ PyQGIS workflow for automated terrain slope calculations from elevation datasets
 - PyQGIS
 - GeoPackage
 - PostGIS
-- Rasterio
 - GDAL
+- Rasterio
+- SQL / SQLite
 
-### UAV / Photogrammetry / LiDAR
+### UAV / Photogrammetry / 3D
 - WebODM
 - CloudCompare
 - PDAL
 - DSM / DTM / nDSM
-- point-cloud processing
 - orthomosaic workflows
+- point-cloud processing
+- 3D reconstruction
+- Blender
 
-### Programming & Data
+### Python & Workflow Automation
 - Python
 - NumPy
 - Pandas
-- SQL
-- SQLite
+- PyQGIS scripting
+- geospatial data validation
+- repeatable GIS processing workflows
 
 ### Software QA
 - Manual testing
-- Test case design
+- Test-case design
 - Requirements analysis
-- Functional testing
-- Negative testing
+- Functional and negative testing
 - Regression / retesting
 - Jira
 - DBeaver
@@ -154,20 +177,38 @@ PyQGIS workflow for automated terrain slope calculations from elevation datasets
 
 ---
 
+## 💼 What I Can Help With
+
+I am interested in projects involving:
+
+- UAV image QA and dataset preparation
+- photogrammetric processing from supplied drone imagery
+- orthomosaic and elevation-model processing
+- 3D reconstruction
+- point-cloud inspection and cleanup
+- LiDAR / terrain-model workflows
+- GIS data validation and restructuring
+- QGIS / PyQGIS workflow automation
+- spatial-data analysis and technical deliverables
+
+My focus is primarily on **data processing and analysis rather than providing drone flight services**.
+
+---
+
 ## 💼 Professional Background
 
-Before focusing on GIS and software development, I spent approximately **7 years working with DJI UAV systems**.
+Before focusing on GIS and geospatial data processing, I spent approximately **7 years working professionally with DJI UAV systems**.
 
-My responsibilities developed from repair work into technical diagnostics and warranty-related assessment. This experience built strong habits around:
+My work involved:
 
-- systematic troubleshooting,
-- fault isolation,
-- technical documentation,
-- analysing unexpected system behaviour,
-- attention to detail,
-- working with complex hardware/software systems.
+- technical diagnostics
+- systematic troubleshooting
+- fault isolation
+- warranty assessment
+- technical documentation
+- identifying unexpected hardware and software behaviour
 
-I now apply the same diagnostic mindset to spatial-data workflows and software QA.
+This experience developed a diagnostic approach that I now apply to **GIS workflows, UAV datasets and Software QA**.
 
 ---
 
@@ -177,13 +218,14 @@ I am currently open to full-time opportunities in:
 
 - GIS / Geospatial Analysis
 - UAV / Drone Data Processing
+- Photogrammetry / 3D Reconstruction
 - GIS Automation
 - Junior Software QA / Manual Testing
 - GIS + QA hybrid roles
 
-I am particularly interested in **Wrocław-based opportunities and remote positions** where GIS, Python, spatial data, UAV processing or software quality overlap.
+I am particularly interested in **Wrocław-based, hybrid and remote opportunities**.
 
-Alongside my job search, I continue developing practical UAV/GIS processing workflows and a longer-term application concept for automating drone-data processing and delivery.
+I am also open to **B2B cooperation and selected freelance GIS / UAV data-processing projects**, especially where clients already have imagery or spatial datasets that need processing, QA or analysis.
 
 ---
 
@@ -193,5 +235,4 @@ Alongside my job search, I continue developing practical UAV/GIS processing work
 **LinkedIn:** [linkedin.com/in/igor-hajducki](https://www.linkedin.com/in/igor-hajducki/)  
 **GitHub:** [github.com/IgorH-GIS](https://github.com/IgorH-GIS)
 
-Open to full-time employment, B2B cooperation and selected freelance GIS / UAV data-processing projects.
-
+Open to **full-time employment, B2B cooperation and selected freelance GIS / UAV data-processing projects**.
