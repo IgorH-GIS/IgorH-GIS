@@ -50,6 +50,8 @@ The **Overcast dataset** gave the best balance of reconstruction completeness, t
 
 Model C produced the densest point cloud, but it took much longer to process and did not clearly improve the final result.
 
+[▶ Watch the final animations →](https://github.com/IgorH-GIS/grodkow-water-tower-photogrammetry#15-final-presentation-and-animations)
+
 [View the full Grodków project →](https://github.com/IgorH-GIS/grodkow-water-tower-photogrammetry)
 
 ---
