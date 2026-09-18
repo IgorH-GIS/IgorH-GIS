@@ -54,24 +54,6 @@ Model C produced the densest point cloud, but it took much longer to process and
 
 ---
 
-## 💼 What I Can Help With
-
-I can help with:
-
-- UAV image QA and dataset preparation
-- photogrammetric processing from supplied drone imagery
-- orthomosaic and elevation-model processing
-- 3D reconstruction
-- point-cloud inspection and cleanup
-- LiDAR / terrain-model workflows
-- GIS data validation and restructuring
-- QGIS / PyQGIS workflow automation
-- spatial-data analysis and technical deliverables
-
----
-
-My focus is mainly on **data processing and analysis rather than providing drone flight services**.
-
 ## 🛰️ Featured Project — UAV Photogrammetry & GIS
 
 ### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
@@ -126,6 +108,24 @@ I later used the same project as a practical Software QA case study involving:
 | Current corrective build | v1.2 |
 
 [View the LoD1 / QA project →](https://github.com/IgorH-GIS/Automated-LoD1-Generation-QGIS)
+
+---
+
+## 💼 What I Can Help With
+
+I can help with:
+
+- UAV image QA and dataset preparation
+- photogrammetric processing from supplied drone imagery
+- orthomosaic and elevation-model processing
+- 3D reconstruction
+- point-cloud inspection and cleanup
+- LiDAR / terrain-model workflows
+- GIS data validation and restructuring
+- QGIS / PyQGIS workflow automation
+- spatial-data analysis and technical deliverables
+
+My focus is mainly on **data processing and analysis rather than providing drone flight services**.
 
 ---
 
