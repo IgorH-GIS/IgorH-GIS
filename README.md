@@ -14,7 +14,7 @@ My current work focuses on:
 - spatial-data validation and databases
 - practical Software QA and manual testing
 
-I have **7 years of professional experience with DJI UAV systems**, mainly in technical diagnostics, troubleshooting and warranty assessment.
+I also bring **7 years of professional experience with DJI UAV systems**, including diagnostics, repairs, troubleshooting and warranty-related assessment.
 
 I am currently open to **full-time GIS / UAV data-processing / QA roles**, as well as selected **B2B and freelance geospatial data-processing projects**.
 
@@ -202,13 +202,13 @@ Before focusing on GIS and geospatial data processing, I spent approximately **7
 My work involved:
 
 - technical diagnostics
+- drone repairs and fault isolation
 - systematic troubleshooting
-- fault isolation
 - warranty assessment
 - technical documentation
-- identifying unexpected hardware and software behaviour
+- hardware and software issue analysis
 
-This experience developed a diagnostic approach that I now apply to **GIS workflows, UAV datasets and Software QA**.
+This experience developed a structured diagnostic approach that I now apply to **GIS workflows, UAV datasets and Software QA**.
 
 ---
 
