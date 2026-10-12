@@ -56,7 +56,7 @@ Model C produced the densest point cloud, but it took much longer to process and
 
 ---
 
-## 🛰️ Featured Project — UAV Photogrammetry & GIS
+## 🛰 Featured Projects — UAV Photogrammetry & GIS
 
 ### [Shitan TW — UAV Photogrammetry Processing & QA](https://github.com/IgorH-GIS/shitan-tw-uav-photogrammetry)
 
@@ -72,11 +72,13 @@ The workflow included:
 - comparison of two processing runs
 - final QGIS reporting
 
-**Key result**
+### Key result
 
-Two processing setups produced similar mapping outputs, while the Full 3D run also generated a textured model and approximately 66 million point-cloud points.
+Two processing setups produced similar mapping outputs, while the Full 3D run also generated a textured model and a ~66 million point cloud.
 
 [View the full Shitan TW project →](https://github.com/IgorH-GIS/shitan-tw-uav-photogrammetry)
+
+---
 
 ### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
 
