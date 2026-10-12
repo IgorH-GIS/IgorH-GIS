@@ -58,6 +58,26 @@ Model C produced the densest point cloud, but it took much longer to process and
 
 ## 🛰️ Featured Project — UAV Photogrammetry & GIS
 
+### [Shitan TW — UAV Photogrammetry Processing & QA](https://github.com/IgorH-GIS/shitan-tw-uav-photogrammetry)
+
+A 493-image UAV dataset covering about 52 ha, processed in WebODM and reviewed in QGIS.
+
+The workflow included:
+
+- image and metadata QA
+- WebODM processing
+- orthophoto, DSM and DTM review
+- dense point-cloud QA
+- textured 3D reconstruction
+- comparison of two processing runs
+- final QGIS reporting
+
+**Key result**
+
+Two processing setups produced similar mapping outputs, while the Full 3D run also generated a textured model and approximately 66 million point-cloud points.
+
+[View the full Shitan TW project →](https://github.com/IgorH-GIS/shitan-tw-uav-photogrammetry)
+
 ### [Sunderland UAV Photogrammetry](https://github.com/IgorH-GIS/sunderland-uav-photogrammetry)
 
 An end-to-end UAV photogrammetry and GIS workflow covering:
