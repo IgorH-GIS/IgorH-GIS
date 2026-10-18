@@ -135,6 +135,18 @@ I later used the same project as a practical Software QA case study involving:
 
 ---
 
+### [WebODM Processing Monitor](https://github.com/IgorH-GIS/webodm-processing-monitor)
+
+A lightweight Python/Tkinter desktop utility I use to monitor long-running
+WebODM tasks and receive ntfy completion notifications.
+
+The project includes practical manual verification during development and a
+small `unittest` suite covering selected application behaviour.
+
+[View the WebODM Processing Monitor →](https://github.com/IgorH-GIS/webodm-processing-monitor)
+
+---
+
 ## 💼 What I Can Help With
 
 I can help with:
